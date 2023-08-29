@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bazz-B
-- 👀 I’m interested in programming, analysis, project management & many more
-- 🌱 I’m currently learning to explore more how can achieve my small target
+- 👀 I’m interested in learn more
+- 🌱 I’m currently learning to explore more how can achieve my target
 
 <!---
 Bazz-B/Bazz-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
