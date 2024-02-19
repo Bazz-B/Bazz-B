@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bazz-B
+- 👋 Hi, I’m @Aina Syakirah
 - 👀 I’m interested in learning more about data manipulation, machine learning and deep learning
 - 🌱 Achieve healthy work-life balance 
 
