@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @lumine
-- 👀 I’m interested in learning more about data manipulation, machine learning and deep learning
-- 📖 🐱 🏸 🍛 Love spicy food and read mangaaa
-- # Data Validation ->
--         Data collection
--         Data cleaning
--         Data Transformation
--         Data validation
-- # Exploratory Analysis ->
--         Regression
--         Classification
--         Clustering
-- 
+- # Hi, I’m @syakirah 👋
+
+- 👀 I’m currently working on machine learning project
+- 📖 I'm currenrtly learing more about supervised learning and unsurpervised learning
+- 🍛 Love spicy food and read mangaaa
+- 🐱 Love cats especialy tabby one
 
 <!---
 Bazz-B/Aina Syakirah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
