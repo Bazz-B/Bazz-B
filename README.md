@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @lumine
 - 👀 I’m interested in learning more about data manipulation, machine learning and deep learning
 - 📖 🐱 🏸 🍛 Love spicy food and read mangaaa
+- # Data Validation ->
+-         Data collection
+-         Data cleaning
+-         Data Transformation
+-         Data validation
+- # Exploratory Analysis ->
+-         Regression
+-         Classification
+-         Clustering
 - 
 
 <!---
