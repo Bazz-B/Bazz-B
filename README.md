@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m currently working on machine learning project<br><br>📖 I'm currenrtly learing more about supervised learning and unsurpervised learning<br><br>🍛 Love spicy food and read mangaaa<br><br>🐱 Love cats especially tabby one
+👀 I’m currently working on machine learning project<br><br>📖 I'm currenrtly learing more about supervised learning and unsurpervised learning<br><br>🍛 Love spicy food and read mangaaa<br><br>🐱 Love cats especially orange tabby cats
 
 
 ## 🌐 Socials:
